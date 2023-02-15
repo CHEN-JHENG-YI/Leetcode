@@ -1,7 +1,7 @@
 // Author : Eric
 // Lang.  : C++
 // Date   : 2023/02/11
-// Note   : Eric First submitssion 
+// Note   : Brute Force 
 // Time   : O(n^2)
 // Space  : O(1)
 class Solution {
